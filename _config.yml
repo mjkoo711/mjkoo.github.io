@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "mjkoo.dev "
+title                    : "MJKoo"
 title_separator          : "-"
 name                     : "Minjun Koo"
 description              : "mjkoo's dev blog"
@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "MJ Koo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "iOS Junior Developer"
+  avatar           : "/assets/images/profileImage.jpg"
+  bio              : "iOS Developer"
   location         : "Seoul, Korea"
   email            : "mjkoo711@gmail.com"
   links:
