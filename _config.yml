@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "MJ Koo"
-  avatar           : "/assets/images/profile.png"
+  avatar           : "/assets/images/Profile.png"
   bio              : "iOS Developer"
   location         : "Seoul, Korea"
   email            : "mjkoo711@gmail.com"
